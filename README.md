@@ -1,7 +1,7 @@
-# patelarnav.github.io
-# Hello, I'm [Your Name]
+# Hello, I'm Arnav
 
 ## About Me
+Prefinal year Undergraduate student at IIT Kharagpur who loves problem solving.
 I'm a passionate data scientist with expertise in various programming languages and frameworks. I enjoy working on projects that involve machine learning, data analysis, and software development.
 
 ## Languages
@@ -14,5 +14,5 @@ I'm a passionate data scientist with expertise in various programming languages 
 - **React**: Experienced in React framework for building dynamic and responsive front-end applications.
 
 ## Contact Me
-Feel free to reach out to me at [your-email@example.com] to discuss collaboration opportunities or to connect.
+Feel free to reach out to me at [patelarnav121@gmail.com] to discuss collaboration opportunities or to connect.
 
